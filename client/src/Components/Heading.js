@@ -6,7 +6,7 @@ const Heading = () => {
     <div className="custom-header d-flex align-items-center justify-content-around">
       <div>
         <div>
-          <h2 className="h2-custom">Pin The Mood</h2>
+          <h2 className="h2-custom">Pin The Mood 😊 😔 🤩</h2>
           <h3 className="pt-3 h3-custom">
             Your Personal Recommendation Diary
             <br /> with a Mood Twist

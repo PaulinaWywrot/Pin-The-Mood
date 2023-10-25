@@ -179,3 +179,11 @@ tbody tr.hide td img {
 
 
 }
+
+@media (max-width: 768px) {
+  .h2-custom {
+    text-align: center;
+  }
+.h3-custom {
+  text-align: center;
+}}

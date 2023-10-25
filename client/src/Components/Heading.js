@@ -11,7 +11,7 @@ const Heading = () => {
           <br /> with a Mood Twist
         </h3>
       </div>
-      <div className="align-self-center mt-3 mt-md-0 text-center">
+      <div className="align-self-center mt-3 mt-md-0">
         <img src={girlImage} alt="girl" className="galinha img-fluid" />
       </div>
     </div>

@@ -183,6 +183,7 @@ tbody tr.hide td img {
 @media (max-width: 768px) {
   .h2-custom {
     text-align: center;
+    padding-top: 3rem;
   }
 .h3-custom {
   text-align: center;
